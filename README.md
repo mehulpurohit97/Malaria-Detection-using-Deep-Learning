@@ -17,7 +17,7 @@ For more information, please visit the [US National Library of Medicine](https:/
 * I use the ResNet50 implemented in Keras for the training.
 * I train the ResNet50 from scratch for 50 epochs on Google Colab's Tesla K80 GPU.
 * I analyse the model and pick the epoch 48's weights as they have the highest validation accuracy and lowest validation loss.
-* I got 0.08 loss and 97% accuracy on validation dataset and 97% accuracy on test dataset.
+* I got 97% accuracy on validation dataset and 97% accuracy on test dataset.
 
 You can find the training steps in [Malaria_detection.ipynb](Malaria_detection.ipynb).
 
