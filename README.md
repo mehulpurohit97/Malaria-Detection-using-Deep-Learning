@@ -8,7 +8,7 @@ This is a project of detecting Malaria from cell images. The codes are based on 
 * The cells are from 200 patients where three out of every four patients had malaria.
 * Single cells were segmented from images of microscope fields of view.
 * All images were manually annotated by an expert slide reader.
-* I split the dataset into 80% training and 20% testing data where out of 80% training data, I take 10% for validation data. This is defined in [build_dataset.py](build_dataset.py).
+* I split the dataset in 80% training and 20% testing data where out of 80% training data, I take 10% for validation data. This is defined in [build_dataset.py](build_dataset.py).
 
 For more information, please visit the [US National Library of Medicine](https://ceb.nlm.nih.gov/repositories/malaria-datasets/).
 
